@@ -1,3 +1,3 @@
 output "demo" {
-  value = echo "Hello World"
+  value = "Hello World"
 }
